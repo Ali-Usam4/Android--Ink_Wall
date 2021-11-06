@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229358505139",
+    "project_id": "wallpaper-app-cc61a",
+    "storage_bucket": "wallpaper-app-cc61a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229358505139:android:cf00a8d3d65e577a3874c6",
+        "android_client_info": {
+          "package_name": "com.example.inkwall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229358505139-2l8iqosmpqr5abk41f6ou8qfh633dsvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOoMOyShdjxdbLOLuWTDUr5zUnGZGEONA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229358505139-2l8iqosmpqr5abk41f6ou8qfh633dsvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
